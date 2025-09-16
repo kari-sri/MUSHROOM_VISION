@@ -1,0 +1,23 @@
+"__pycache__/" 
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data & models
+dataset/
+data/
+models/
+outputs/
+*.pth
+*.pt
+*.h5
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
